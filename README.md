@@ -2,6 +2,9 @@
     <a href="https://main.d6gzcggx8q0e.amplifyapp.com/" align="center" target="_blank" rel="noreferrer">React Investment Calculator</a>
 </div>
 
+![React Investment Calculator](https://github.com/Bharathkdev/react-investment-calculator/assets/46343966/dab28f61-93cf-4634-adaa-638bf5d7f404)
+
+
 ## 📋 <a name="table">Table of Contents</a>
 
 1. 🤖 [Introduction](#introduction)
