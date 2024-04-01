@@ -15,6 +15,8 @@ Discover financial wizardry with this React Investment Calculator. Stunning UI m
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - React.js
+- HTML
+- CSS
 - AWS-Amplify
 
 ## <a name="features">🔋 Features</a>
