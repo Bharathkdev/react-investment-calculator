@@ -30,18 +30,6 @@ Discover financial wizardry with this React Investment Calculator. Stunning UI m
 
 👉 - **Customizable Investment Parameters:** Customize your investment inputs such as initial investment amount, annual contribution, and expected annual growth rate.
 
-👉 - **Graphical Representation:** Visualize your investment journey with interactive charts and graphs, making it easy to understand your financial progress.
-
-👉 - **Savings Goals:** Set savings goals and track your progress towards achieving them, motivating you to stay on track with your financial plans.
-
 👉 - **Responsive Design:** Access the investment calculator seamlessly across devices, ensuring you can manage your finances on-the-go.
-
-👉 - **User Authentication:** Securely save and access your investment data with user authentication features, ensuring your financial information remains confidential.
-
-👉 - **Export and Share Reports:** Export your investment reports and share them with financial advisors or family members for collaborative planning.
-
-👉 - **Currency Conversion:** Support for multiple currencies, allowing users to calculate investments in their preferred currency.
-
-👉 - **Performance Analysis:** Analyze the performance of different investment strategies and compare them to make informed decisions.
 
 including code architecture and reusability.
